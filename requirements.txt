@@ -1,0 +1,12 @@
+streamlit
+requests
+python-dotenv
+groq
+pandas
+numpy
+psycopg2-binary
+sqlalchemy
+openai
+pymupdf
+pytesseract
+Pillow

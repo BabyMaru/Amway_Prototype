@@ -1,0 +1,1 @@
+Amway_shopping_site : https://www.amway.co.kr/shop/c/shop
